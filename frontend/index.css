@@ -1,1 +1,17 @@
 
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #1a1a1a;
+    color: white;
+  }
+  
+  button {
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  
+  button:hover {
+    filter: brightness(90%);
+  }
+  
